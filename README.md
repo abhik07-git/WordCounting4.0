@@ -76,7 +76,7 @@ python wordcount_4.py ./my_folder "hello world" no
 
 - Only searches files directly inside a directory — sub-folders are not searched.
 - Files that cannot be decoded as UTF-8 text are skipped with a warning message.
-- The CSV file is appended to on every run; delete it manually if you want a
+- The CSV file is appended to on every run, delete it manually if you want a
   fresh results file.
 
 ---
